@@ -26,13 +26,13 @@ webpack
 ### Plugins
 
 
-### config
+### Config
 Look compile to bundle.js's progress
 
 ``` javascript
 webpack --progress --colors
 ```
-watch the files' different and auto compile
+Watch the files' different and auto compile
 
 ``` javascript
 webpack --progress --colors -watch
